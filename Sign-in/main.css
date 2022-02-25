@@ -5,6 +5,11 @@
 .content-image{
     display: flex;
     justify-content: flex-start;
+    background-color: blue;
+}
+
+.imagetext{
+    color: white;
 }
 
 .card{
@@ -16,6 +21,12 @@
 .form-control{
     display: flex;
     justify-content: flex-end;
+}
+
+h1{ 
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
 }
 
 .sign-in{
@@ -35,12 +46,19 @@ body {
 }
 
 img{
-    max-width: 50%;
+    max-width: 100%;
     padding: 0;
-    clip-path: ellipse(65px 30px at 125px 40px);
 }
 
 .option{
     display: flex;
     justify-content: flex-end;
+}
+
+.flexwrap{
+    flex-direction: column;
+}
+
+.col-image{
+    clip-path: ellipse(86% 100% at -1% 0%);
 }

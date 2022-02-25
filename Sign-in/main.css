@@ -1,0 +1,41 @@
+
+.containter-fluid{
+    padding: 0;
+}
+.content-image{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.card{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 40px;
+}
+
+.form-control{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sign-in{
+    display: flex;
+    justify-content: flex-end;
+    font-size: xx-large;
+}
+
+button{
+    display: flex;
+    justify-content: flex-end;
+    Color: Blue;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+img{
+    max-width: 50%;
+    padding: 0;
+}
+

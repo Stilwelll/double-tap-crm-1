@@ -37,5 +37,10 @@ body {
 img{
     max-width: 50%;
     padding: 0;
+    clip-path: ellipse(65px 30px at 125px 40px);
 }
 
+.option{
+    display: flex;
+    justify-content: flex-end;
+}

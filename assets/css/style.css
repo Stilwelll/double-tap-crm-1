@@ -12,6 +12,36 @@
     display: flex;
 }
 
-.nav-btn{
-    /* margin: 10px; */
+.card-body h1{
+    /* border: 1px solid red; */
+    font-weight: bold;
+    font-size: 50px;
+}
+.card-body h2{
+    font-weight: bold;
+}
+
+.headcard{
+    margin-left: 50px;
+    margin-top: 16px;
+}
+
+.headimage{
+    max-height: 500px;
+}
+
+.roundborder{
+    border-radius: 15px;
+}
+
+.sideborder{
+    border-radius: 0px 15px 15px 0px;
+}
+
+.cardcontent{
+    max-width: 85%;
+}
+
+.btnwidth{
+    width: 40%;
 }

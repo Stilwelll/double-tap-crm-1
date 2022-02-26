@@ -30,6 +30,18 @@
     max-height: 500px;
 }
 
-.iconcard{
+.roundborder{
     border-radius: 15px;
+}
+
+.sideborder{
+    border-radius: 0px 15px 15px 0px;
+}
+
+.cardcontent{
+    max-width: 85%;
+}
+
+.btnwidth{
+    width: 40%;
 }

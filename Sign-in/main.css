@@ -1,0 +1,103 @@
+
+.containter-fluid{
+    padding: 0;
+}
+.content-image{
+    display: flex;
+    justify-content: flex-start;
+    background-color: blue;
+}
+
+h1{
+    padding-top: 20px;
+    font-size: larger;
+}
+
+
+
+.imagetext{
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    font-size: 8px;  
+  
+}
+
+.imagetext2{
+    color: white;
+    position: absolute;
+    top: 22%;
+    left: 15%;
+    font-size: 8px;
+}
+
+
+.button1{
+    position: absolute;
+    top: 100%;
+    left: 15%;
+    font-size: 10px; 
+}
+
+
+.card{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 40px;
+}
+
+.form-control{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h1{ 
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    padding-top: 50px;
+}
+
+.row>* {
+    padding-left: 0px;
+}
+
+button{
+    display: flex;
+    justify-content: flex-end;
+    Color: Blue;
+}
+
+
+.option{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.col-image{
+    clip-path: ellipse(86% 100% at -1% 0%);
+}
+
+
+
+.rounded-circle{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.input-group{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.sign-in{
+    font-weight: bold;
+}

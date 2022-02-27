@@ -58,6 +58,10 @@ h1{
     font-size: xx-large;
 }
 
+.row>* {
+    padding-left: 0px;
+}
+
 button{
     display: flex;
     justify-content: flex-end;

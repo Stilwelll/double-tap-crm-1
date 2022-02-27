@@ -20,7 +20,16 @@ h1{
     position: absolute;
     top: 20%;
     left: 15%;
-    font-size: 8px;    
+    font-size: 8px;  
+  
+}
+
+.imagetext2{
+    color: white;
+    position: absolute;
+    top: 22%;
+    left: 15%;
+    font-size: 8px;
 }
 
 
@@ -89,3 +98,6 @@ button{
     padding-right: 20px;
 }
 
+.sign-in{
+    font-weight: bold;
+}

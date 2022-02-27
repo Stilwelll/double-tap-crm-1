@@ -7,13 +7,11 @@
 }
 
 .nav-btn-container{
-    /* border: 1px solid pink */
     width: 100%;
     display: flex;
 }
 
 .card-body h1{
-    /* border: 1px solid red; */
     font-weight: bold;
     font-size: 50px;
 }
@@ -44,4 +42,25 @@
 
 .btnwidth{
     width: 40%;
+}
+
+.ellipse{
+    max-height: 175px;
+    width: auto;
+    max-width: 50%;
+    position: absolute;
+}
+
+.cardimg{
+    height: 200px;
+    position: relative;
+}
+
+.solutioncard{
+    max-width: 500px;
+}
+
+.solbtn{
+    margin-left: 25%;
+    margin-right: 25%;
 }

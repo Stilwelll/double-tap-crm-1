@@ -64,3 +64,11 @@
     margin-left: 25%;
     margin-right: 25%;
 }
+
+.workscard{
+    height: 500px;
+}
+
+#smallerpicture{
+    max-height: 400px;
+}

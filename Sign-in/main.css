@@ -8,6 +8,11 @@
     background-color: blue;
 }
 
+h1{
+    padding-top: 20px;
+    font-size: larger;
+}
+
 .col-12{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: x-large;
@@ -16,13 +21,20 @@
 
 .imagetext{
     color: white;
-        position: absolute;
-        top:11%;
-        left: 3%;
-        font-size: 15px;
-        
-    }
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 8px;    
 }
+
+
+.button1{
+    position: absolute;
+    top: 100%;
+    left: 15%;
+    font-size: 10px; 
+}
+
 
 .card{
     display: flex;
@@ -54,8 +66,8 @@ button{
 
 
 img{
-    max-width: 100%;
-    padding: 0;
+    max-width: 100%; 
+    
 }
 
 .option{
@@ -66,3 +78,13 @@ img{
 .col-image{
     clip-path: ellipse(86% 100% at -1% 0%);
 }
+
+body{
+    font-family: inherit;
+}
+
+.rounded-circle{
+    width: 40px;
+    height: 40px;
+}
+
